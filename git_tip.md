@@ -1,4 +1,4 @@
-###### tags: `git`
+###### tags: `note`
 
 # GIT 小技巧
 
