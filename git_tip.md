@@ -1,4 +1,4 @@
-###### tags: git
+###### tags: `git`
 
 # GIT 小技巧
 
